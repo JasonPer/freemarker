@@ -1,2 +1,2 @@
 # FreeMarker
-## FreeMarker Ä£°åÒıÇæ³õ´ÎÌåÑé.
+## FreeMarker åˆæ¬¡ä½“éªŒã€‚
